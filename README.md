@@ -14,7 +14,7 @@ Also in some case you'll find code examples and tips that I've learned during my
 
  1. [Data Types](https://github.com/roberto910907/Tier2-Evidence/blob/master/docs/Tier1/data_types.md)
  2. [Passing arguments by reference vs passing by value](https://github.com/roberto910907/Tier2-Evidence/blob/master/docs/Tier1/passing_arguments.md)
- 3. [SuperGlobals](https://github.com/roberto910907/Tier2-Evidence/blob/master/docs/Tier1/superblobals.md)
+ 3. [SuperGlobals](https://github.com/roberto910907/Tier2-Evidence/blob/master/docs/Tier1/superglobals.md)
  4. [Basic Knowledge of Magic functions](https://github.com/roberto910907/Tier2-Evidence/blob/master/docs/Tier1/magic_functions.md)
  5. [Scope Reolution Operator]()
  6. [Traits]()
