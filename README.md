@@ -6,19 +6,20 @@
 
 ## Main Goal
 
-This documentation will cover some of the main concepts and features that a developer needs to know about PHP to reach the Tier2 level inside StackBuilders. Each section will contain a resume about the functionality described as well as some documentation links for a more advanced reading.  
+This documentation will cover some of the main concepts and features that a developer needs to know about PHP to reach the Tier2 level inside StackBuilders. Each section will contain a resume about the functionality described as well as some documentation links for a more advanced reading.
+
+Also in some case you'll find code examples and tips that I've learned during my journey with PHP.
 
 ### Tier1 Concepts
 
- 1. [Datatypes]()
- 2. [Passing arguments by reference vs passing by value]()
- 3. [SuperGlobals]()
- 4. [Main OOP concepts]()
- 5. [Basic Knowledge of Magic functions]()
- 6. [Scope Reolution Operator]()
- 7. [Traits]()
- 8. [Built-in Interfaces]()
- 9. [Namespaces]()
+ 1. [Data Types](https://github.com/roberto910907/Tier2-Evidence/blob/master/docs/Tier1/data_types.md)
+ 2. [Passing arguments by reference vs passing by value](https://github.com/roberto910907/Tier2-Evidence/blob/master/docs/Tier1/passing_arguments.md)
+ 3. [SuperGlobals](https://github.com/roberto910907/Tier2-Evidence/blob/master/docs/Tier1/superblobals.md)
+ 4. [Basic Knowledge of Magic functions](https://github.com/roberto910907/Tier2-Evidence/blob/master/docs/Tier1/magic_functions.md)
+ 5. [Scope Reolution Operator]()
+ 6. [Traits]()
+ 7. [Built-in Interfaces]()
+ 8. [Namespaces]()
 1.  [Session Management]()
 2.  [Errors and Exceptions]()
 3.  [New Features]()
@@ -37,7 +38,7 @@ This documentation will cover some of the main concepts and features that a deve
 
 ### Tier2 Concepts
 
-1. [Data Structures and Performace]()
+1. [Data Structures and Performace](https://github.com/roberto910907/Tier2-Evidence/blob/master/docs/Tier1/data_structure.md)
 2. [Advanced Knowledge of Magic Functions]()
 3. [Side Effects]()
 4. [Implicit State]()
