@@ -25,9 +25,9 @@ Also in some case you'll find code examples and tips that I've learned during my
  11. [Functions](https://github.com/roberto910907/Tier2-Evidence/blob/master/docs/Tier1/functions.md)
  12. [States in Operations](https://github.com/roberto910907/Tier2-Evidence/blob/master/docs/Tier1/states_in_operations.md)
  13. [Coercion](https://github.com/roberto910907/Tier2-Evidence/blob/master/docs/Tier1/coercion.md)
- 14. [Standard Libraries and Extensions]()
- 15. [Architectural Decisions]()
- 16. [Security Issues]()
+ 14. [Standard Libraries and Extensions](https://github.com/roberto910907/Tier2-Evidence/blob/master/docs/Tier1/libraries_extensions.md)
+ 15. [Architectural Decisions](https://github.com/roberto910907/Tier2-Evidence/blob/master/docs/Tier1/architectural_decisions.md)
+ 16. [Security Issues](https://github.com/roberto910907/Tier2-Evidence/blob/master/docs/Tier1/security_issues.md)
 
 ### Tier2 Concepts
 
