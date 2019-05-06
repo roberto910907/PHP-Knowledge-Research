@@ -32,8 +32,8 @@ Also in some case you'll find code examples and tips that I've learned during my
 ### Tier2 Concepts
 
 1. [Data Structures and Performace](https://github.com/roberto910907/Tier2-Evidence/blob/master/docs/Tier1/data_structure.md)
-2. [Advanced Knowledge of Magic Functions]()
-3. [Side Effects]()
-4. [Implicit State]()
-5. [Implicit coercion]()
-6. [PHP Sadness]()
+2. [Advanced Knowledge of Magic Functions](https://github.com/roberto910907/Tier2-Evidence/blob/master/docs/Tier1/magical_functions.md)
+3. [Side Effects](https://github.com/roberto910907/Tier2-Evidence/blob/master/docs/Tier1/side_effects.md)
+4. [Implicit State](https://github.com/roberto910907/Tier2-Evidence/blob/master/docs/Tier1/implicit_state.md)
+5. [Implicit coercion](https://github.com/roberto910907/Tier2-Evidence/blob/master/docs/Tier1/implicit_coercion.md)
+6. [PHP Sadness](https://github.com/roberto910907/Tier2-Evidence/blob/master/docs/Tier1/php_sadness.md)
