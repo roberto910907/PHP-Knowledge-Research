@@ -1,16 +1,12 @@
-<div style="background: #ddd">
-    <img src="https://www.stackbuilders.com/assets/images/stack-builders-logo-nav-horizontal.svg" width="320" style="margin-left: 45%">
-</div>
-
-# Roberto Rielo - Tier2 Evidence PHP 7+
+# Roberto Rielo - PHP 7+ Concepts Research
 
 ## Main Goal
 
-This documentation will cover some of the main concepts and features that a developer needs to know about PHP to reach the Tier2 level inside StackBuilders. Each section will contain a resume about the functionality described as well as some documentation links for a more advanced reading.
+This documentation will cover some of the main concepts, fundamentals, and features that a developer needs to know about PHP . Each section will contain a resume about the functionality described as well as some documentation links for a more advanced reading.
 
 Also in some case you'll find code examples and tips that I've learned during my journey with PHP.
 
-### Tier1 Concepts
+### Basic Concepts
 
  1. [Data Types](https://github.com/roberto910907/Tier2-Evidence/blob/master/docs/Tier1/data_types.md)
  2. [Passing arguments by reference vs passing by value](https://github.com/roberto910907/Tier2-Evidence/blob/master/docs/Tier1/passing_arguments.md)
@@ -29,7 +25,7 @@ Also in some case you'll find code examples and tips that I've learned during my
  15. [Architectural Decisions](https://github.com/roberto910907/Tier2-Evidence/blob/master/docs/Tier1/architectural_decisions.md)
  16. [Security Issues](https://github.com/roberto910907/Tier2-Evidence/blob/master/docs/Tier1/security_issues.md)
 
-### Tier2 Concepts
+### Advanced Concepts
 
 1. [Data Structures and Performace](https://github.com/roberto910907/Tier2-Evidence/blob/master/docs/Tier2/data_structure.md)
 2. [Advanced Knowledge of Magic Functions](https://github.com/roberto910907/Tier2-Evidence/blob/master/docs/Tier2/magical_functions.md)
